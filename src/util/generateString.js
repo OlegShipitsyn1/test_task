@@ -30,7 +30,7 @@ const useAlphabetForStringCreation = (alphabet) => {
 };
 
 const latinCharCodes = {
-  uppercase: [65, 90],
+  uppercase: [64, 90],
   lowercase: [97, 122],
 };
 
